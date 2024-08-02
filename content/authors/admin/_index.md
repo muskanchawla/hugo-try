@@ -7,7 +7,7 @@ title: Ashish Ochani
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Accounting
+role: Assistant Professor (Accounting and Information Systems)
 
 # Organizations/Affiliations to show in About widget
 # organizations:
